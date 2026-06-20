@@ -17,7 +17,7 @@ O NÓDULO é um **PWA** (Progressive Web App). Isso quer dizer que ele se instal
 ### No Android (Chrome)
 
 1. Abra o link do app no **Chrome**:
-   👉 **https://noahdavidharari-jpg.github.io/Nodulo/**
+   👉 https://noahdavidharari-jpg.github.io/nodulo-editor-BETA-7/
 2. Espere carregar por completo na primeira vez.
 3. Toque no menu **⋮** (canto superior direito) → **"Instalar app"** (ou *"Adicionar à tela inicial"*).
    - Em muitos aparelhos aparece sozinho um aviso **"Instalar NÓDULO"**.
